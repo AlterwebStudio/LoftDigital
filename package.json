@@ -1,0 +1,32 @@
+[
+  {
+    "startLocation": "São Paulo–Guarulhos International Airport, Brazil",
+    "endLocation": "Porto International Airport, Portugal",
+    "transportMethod": "Flight",
+    "deliveryCompany": "LATAM"
+  },
+  {
+    "startLocation": "Fazenda São Francisco Citros, Brazil",
+    "endLocation": "São Paulo–Guarulhos International Airport, Brazil",
+    "transportMethod": "Truck",
+    "deliveryCompany": "Correios"
+  },
+  {
+    "startLocation": "Adolfo Suárez Madrid–Barajas Airport, Spain",
+    "endLocation": "London Heathrow, UK",
+    "transportMethod": "Flight",
+    "deliveryCompany": "DHL"
+  },
+  {
+    "startLocation": "London Heathrow, UK",
+    "endLocation": "Loft Digital, London, UK",
+    "transportMethod": "Van",
+    "deliveryCompany": "City Sprint"
+  },
+  {
+    "startLocation": "Porto International Airport, Portugal",
+    "endLocation": "Adolfo Suárez Madrid–Barajas Airport, Spain",
+    "transportMethod": "Van",
+    "deliveryCompany": "AnyVan"
+  }
+]
